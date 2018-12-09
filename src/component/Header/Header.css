@@ -1,0 +1,15 @@
+.myHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: center
+}
+.section{
+    margin: 0 20px;
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    background: #eee;
+    text-align: center
+}
